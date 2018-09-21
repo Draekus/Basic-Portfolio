@@ -86,9 +86,10 @@ a:hover {
    height: 505px;
    width: 960px;
    background-color: #ffffff;
-   position: fixed;
-   top: 120px;
-   left: 17%;
+   margin: 10% auto;
+   /* position: fixed; */
+   /* top: 120px; */
+   /* left: 17%; */
    border-style: solid;
    border-width: 2px;
    border-color: #dddddd;
@@ -151,9 +152,10 @@ a:hover {
    height: 505px;
    width: 960px;
    background-color: #ffffff;
-   position: fixed;
-   top: 120px;
-   left: 17%;
+   margin: 10% auto;
+   /* position: fixed; */
+   /* top: 120px; */
+   /* left: 17%; */
    border-style: solid;
    border-width: 2px;
    border-color: #dddddd;
