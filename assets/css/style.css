@@ -5,6 +5,7 @@ html {
 
 #headerbox {
     position: fixed;
+    z-index: 3;
     top: 0px;
     left: 0px;
     background-color: #ffffff;
@@ -25,6 +26,7 @@ body {
 
 #headertext {
     position: fixed;
+    z-index: 3;
     top: 0px;
     left: 15%;
     line-height: 80px;
